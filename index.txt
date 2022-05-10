@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 fix issu 53
 fixx
+=======
+fix issu 53 123
+>>>>>>> issu53
